@@ -1,0 +1,21 @@
+{
+  "name": "empty-http-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandobhz/empty-http-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandobhz/empty-http-server/issues"
+  },
+  "homepage": "https://github.com/fernandobhz/empty-http-server#readme"
+}
